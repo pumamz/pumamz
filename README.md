@@ -51,46 +51,14 @@ Busco oportunidades de prácticas o pasantías en entornos técnicos exigentes d
 ### Sistema de Gestión Psicopedagógica  
 Proyecto de Vinculación con la Sociedad – Universidad Católica de Cuenca (2025–2026)
 
-- Backend en Spring Boot con generación de reportes.
-- Frontend en React con Tailwind CSS.
-- Base de datos PostgreSQL.
-- Gestión de pacientes, fichas médicas, citas, usuarios y permisos.
-- Rol: Líder del proyecto (asignación de tareas, revisión de código y validación funcional).
-
----
-
 ### Sistema de Facturación Electrónica  
 Proyecto Universitario (2025–2026)
-
-- Backend en Spring Boot (Java).
-- Frontend en Angular.
-- Base de datos MySQL.
-- Integración con APIs del SRI.
-- Módulos de pedidos, proveedores, cajas, productos, ventas y usuarios.
-- Enfoque en procesos críticos y validaciones fiscales.
-
----
 
 ### Sistema de Gestión de Gimnasio  
 Proyecto Universitario (2024)
 
-- Backend en Spring Boot con Spring Security.
-- Autenticación y control de accesos.
-- Frontend en React con Bootstrap.
-- Base de datos MySQL.
-- Módulos de usuarios, ventas y membresías.
-- Despliegue en AWS.
-- Rol: Líder del proyecto.
-
----
-
 ### Landing Page – Club Codary  
 2026
-
-- Desarrollo en React con Tailwind CSS.
-- Diseño responsive y animaciones.
-- Implementación de envío de correos.
-- Despliegue en Vercel.
 
 ---
 
