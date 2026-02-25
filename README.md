@@ -1,96 +1,117 @@
-# Daniel Puma
+<h1 align="center">Daniel Puma</h1>
+<h3 align="center">Software Engineer | Backend & Arquitectura Empresarial</h3>
 
-Estudiante de Ingeniería en Software en la Universidad Católica de Cuenca (quinto ciclo aprobado, próximo a sexto). Experiencia en el diseño y desarrollo de sistemas empresariales completos utilizando arquitecturas limpias, seguridad basada en JWT, bases de datos relacionales y despliegues en la nube.
-
-Interesado en backend, arquitectura de software, seguridad y sistemas corporativos escalables.
+<p align="center">
+  <a href="mailto:dpumamunoz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge">
+  </a>
+  <img src="https://img.shields.io/badge/Location-Ecuador-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/English-B2-success?style=for-the-badge">
+</p>
 
 ---
 
-## Perfil Profesional
+## Perfil
 
-He participado en el desarrollo de sistemas de gestión, facturación electrónica, plataformas médicas y aplicaciones web empresariales. He asumido roles de liderazgo técnico en proyectos académicos, asignando tareas, revisando código y validando entregables.
+Estudiante de Ingeniería en Software con experiencia en desarrollo de sistemas empresariales completos, enfocado en backend robusto, seguridad con JWT y arquitecturas limpias.
 
-Busco oportunidades de prácticas o pasantías en entornos técnicos exigentes donde pueda aportar soluciones confiables y escalables.
+He liderado proyectos académicos de alto impacto, coordinando equipos técnicos, revisando código y validando entregables en sistemas médicos, facturación electrónica y plataformas de gestión.
+
+Intereses principales: arquitectura backend, seguridad, infraestructura y software corporativo escalable.
 
 ---
 
 ## Stack Tecnológico
 
 ### Lenguajes
-- Java
-- JavaScript
-- SQL
-- HTML5
-- CSS3
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-### Frameworks y Librerías
-- Spring Boot
-- Spring Security (JWT)
-- React
-- Angular
-- Node.js
-- Tailwind CSS
-- Bootstrap
+### Backend
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-JWT-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+### Frontend
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
 ### Bases de Datos
-- MySQL
-- PostgreSQL
-- MongoDB
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-### Cloud y DevOps
-- AWS
-- Vercel
-- Railway
-- Entornos Linux
-- Docker
+### Cloud & DevOps
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 ---
 
 ## Proyectos Destacados
 
-### Sistema de Gestión Psicopedagógica  
-Proyecto de Vinculación con la Sociedad – Universidad Católica de Cuenca (2025–2026)
+### Sistema de Gestión Psicopedagógica
+- Backend en Spring Boot con generación de reportes.
+- Frontend en React + Tailwind.
+- PostgreSQL.
+- Gestión de pacientes, citas, fichas médicas y permisos.
+- Rol: Líder técnico del proyecto.
 
-### Sistema de Facturación Electrónica  
-Proyecto Universitario (2025–2026)
+### Sistema de Facturación Electrónica
+- Spring Boot + Angular.
+- MySQL.
+- Integración con APIs del SRI.
+- Validaciones fiscales y procesos críticos empresariales.
 
-### Sistema de Gestión de Gimnasio  
-Proyecto Universitario (2024)
+### Sistema de Gestión de Gimnasio
+- Spring Boot + Spring Security.
+- React + Bootstrap.
+- MySQL.
+- Control de accesos y membresías.
+- Despliegue en AWS.
+- Rol: Líder del proyecto.
 
-### Landing Page – Club Codary  
-2026
-
----
-
-## Competencias
-
-- Liderazgo técnico
-- Pensamiento analítico y lógico
-- Trabajo en equipo
-- Comunicación técnica
-- Responsabilidad y compromiso
-- Aprendizaje continuo
-
----
-
-## Idiomas
-
-- Español: Nativo
-- Inglés: B2 (Intermedio Alto)
+### Landing Page Club Codary
+- React + Tailwind.
+- Diseño responsive y animaciones.
+- Envío de correos.
+- Despliegue en Vercel.
 
 ---
 
-## Intereses Profesionales
+## Estadísticas
 
-- Arquitectura backend
-- Seguridad en aplicaciones (JWT, control de roles)
-- Sistemas empresariales
-- Infraestructura y despliegue en la nube
-- Software corporativo escalable
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pumamz&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pumamz&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## Contacto
+## Enfoque Profesional
 
-Email: dpumamunoz@gmail.com  
-Ubicación: Ecuador
+Arquitectura limpia  
+Seguridad con JWT  
+Sistemas empresariales  
+Escalabilidad y despliegue en la nube  
+Liderazgo técnico  
+
+---
+
+<p align="center">
+  Construyendo software confiable, estructurado y preparado para producción.
+</p>
