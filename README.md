@@ -13,7 +13,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pumamz&color=00B4DB&style=flat-square&label=PROFILE+VIEWS" alt="pumamz" />
+  <img src="https://komarev.com/ghpvc/?username=pumamz&color=00B4DB&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Currently_Coding-success?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Status" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4DB&center=true&vCenter=true&width=600&height=50&lines=Working+on+Enterprise+Architectures;Implementing+Advanced+Security;Deploying+Cloud+Solutions" alt="Dynamic Status" />
 </p>
 
 ---
@@ -103,6 +108,20 @@ He liderado equipos técnicos en proyectos críticos, garantizando la calidad de
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pumamz&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=pumamz&theme=tokyonight&bg_color=1a1b27&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pumamz&theme=tokyonight&layout=compact" alt="Wakatime Stats" />
+</p>
+
+<div align="center">
+  <br>
+  <img src="https://github.com/pumamz/pumamz/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <br>
+</div>
 
 ---
 
