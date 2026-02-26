@@ -109,10 +109,6 @@ He liderado equipos técnicos en proyectos críticos, garantizando la calidad de
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pumamz&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=pumamz&theme=tokyonight&bg_color=1a1b27&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
 ---
 
 ### Enfoque y Metas
