@@ -1,117 +1,121 @@
-<h1 align="center">Daniel Puma</h1>
-<h3 align="center">Software Engineer | Backend & Arquitectura Empresarial</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4DB&center=true&vCenter=true&width=500&height=100&lines=Cesar+Daniel+Puma+Muñoz;Software+Engineer;Backend+%26+Enterprise+Architecture;System+Leader+%26+Developer" alt="Header Typing SVG" />
+</p>
 
 <p align="center">
   <a href="mailto:dpumamunoz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Email-dpumamunoz%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Ecuador-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/English-B2-success?style=for-the-badge">
+  <a href="https://www.linkedin.com/in/daniel-puma-b42b0b179/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Ecuador-FFD100?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
-
----
-
-## Perfil
-
-Estudiante de Ingeniería en Software con experiencia en desarrollo de sistemas empresariales completos, enfocado en backend robusto, seguridad con JWT y arquitecturas limpias.
-
-He liderado proyectos académicos de alto impacto, coordinando equipos técnicos, revisando código y validando entregables en sistemas médicos, facturación electrónica y plataformas de gestión.
-
-Intereses principales: arquitectura backend, seguridad, infraestructura y software corporativo escalable.
-
----
-
-## Stack Tecnológico
-
-### Lenguajes
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### Backend
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-JWT-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-
-### Frontend
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### Bases de Datos
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### Cloud & DevOps
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
----
-
-## Proyectos Destacados
-
-### Sistema de Gestión Psicopedagógica
-- Backend en Spring Boot con generación de reportes.
-- Frontend en React + Tailwind.
-- PostgreSQL.
-- Gestión de pacientes, citas, fichas médicas y permisos.
-- Rol: Líder técnico del proyecto.
-
-### Sistema de Facturación Electrónica
-- Spring Boot + Angular.
-- MySQL.
-- Integración con APIs del SRI.
-- Validaciones fiscales y procesos críticos empresariales.
-
-### Sistema de Gestión de Gimnasio
-- Spring Boot + Spring Security.
-- React + Bootstrap.
-- MySQL.
-- Control de accesos y membresías.
-- Despliegue en AWS.
-- Rol: Líder del proyecto.
-
-### Landing Page Club Codary
-- React + Tailwind.
-- Diseño responsive y animaciones.
-- Envío de correos.
-- Despliegue en Vercel.
-
----
-
-## Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pumamz&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pumamz&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://komarev.com/ghpvc/?username=pumamz&color=00B4DB&style=flat-square&label=PROFILE+VIEWS" alt="pumamz" />
 </p>
 
 ---
 
-## Enfoque Profesional
+### Sobre Mí
 
-Arquitectura limpia  
-Seguridad con JWT  
-Sistemas empresariales  
-Escalabilidad y despliegue en la nube  
-Liderazgo técnico  
+Estudiante de **Ingeniería en Software** especializado en el desarrollo de sistemas empresariales de alto rendimiento. Mi enfoque se centra en la creación de **backends robustos**, implementación de **seguridad avanzada con JWT/OAuth2** y diseño de **arquitecturas escalables** (Clean Architecture, HEX, DDD).
+
+He liderado equipos técnicos en proyectos críticos, garantizando la calidad del código, la estabilidad de la infraestructura y el cumplimiento de requerimientos de negocio complejos.
 
 ---
 
+### Stack Tecnológico
+
 <p align="center">
-  Construyendo software confiable, estructurado y preparado para producción.
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,vue,tailwind,react,python,js,ts,wordpress" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,github,aws,firebase,git,postman,docker" />
+  </a>
+</p>
+
+---
+
+### Proyectos Destacados
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Sistema de Gestión Psicopedagógica</h4>
+      <ul>
+        <li><b>Backend:</b> Spring Boot (Java 17+)</li>
+        <li><b>Frontend:</b> React + Tailwind CSS</li>
+        <li><b>DB:</b> PostgreSQL</li>
+        <li><b>Key:</b> Gestión de historias clínicas, citas y seguridad basada en roles.</li>
+      </ul>
+      <p align="right">
+        <a href="https://github.com/pumamz/udipsai" target="_blank">View Repo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Facturación Electrónica</h4>
+      <ul>
+        <li><b>Stack:</b> Spring Boot + Angular</li>
+        <li><b>DB:</b> MySQL / MariaDB</li>
+        <li><b>Key:</b> Integración con WS del SRI (Ecuador), firma electrónica y validación fiscal.</li>
+      </ul>
+      <p align="right">
+        <a href="https://github.com/pumamz" target="_blank">View Repo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Sistema de Gestión de Gimnasio</h4>
+      <ul>
+        <li><b>Tech:</b> Node.js / Spring Boot + React</li>
+        <li><b>Infra:</b> AWS (EC2, S3) + Docker</li>
+        <li><b>Key:</b> Control de accesos biométricos, membresías y pasarelas de pago.</li>
+      </ul>
+      <p align="right">
+        <a href="https://github.com/pumamz/gymapp" target="_blank">View Repo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Landing Club Codary</h4>
+      <ul>
+        <li><b>Stack:</b> React + Tailwind + Framer Motion</li>
+        <li><b>Deploy:</b> Vercel</li>
+        <li><b>Key:</b> UI/UX Premium, animaciones fluidas y optimización SEO.</li>
+      </ul>
+      <p align="right">
+        <a href="https://github.com/pumamz/codary-web" target="_blank">View Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pumamz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pumamz&theme=tokyonight" alt="GitHub Profile Details" />
+</p>
+
+---
+
+### Enfoque y Metas
+- **Arquitectura:** Clean Architecture, Microservicios, DDD.
+- **Seguridad:** JWT, OAuth2, RBAC/ABAC.
+- **DevOps:** Docker, CI/CD, AWS/Azure.
+- **Liderazgo:** Gestión de proyectos bajo metodologías Ágiles (Scrum).
+
+<p align="center">
+  <i>"Transformando lógica compleja en soluciones elegantes y escalables."</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4DB&center=true&vCenter=true&width=435&lines=Building+the+Future;Love+to+Code;Tech+Leader" alt="Footer Typing SVG" />
 </p>
