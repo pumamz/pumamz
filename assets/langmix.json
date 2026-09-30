@@ -1,0 +1,26 @@
+{
+  "title": "Language Stack",
+  "_comment": "Values 0-100. Edit these and rerun scripts/radar.py to redraw it.",
+  "axes": [
+    {
+      "label": "Java",
+      "value": 90
+    },
+    {
+      "label": "JavaScript/TS",
+      "value": 85
+    },
+    {
+      "label": "SQL",
+      "value": 85
+    },
+    {
+      "label": "Python",
+      "value": 70
+    },
+    {
+      "label": "PHP",
+      "value": 60
+    }
+  ]
+}

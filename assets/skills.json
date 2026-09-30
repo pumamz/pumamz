@@ -1,0 +1,30 @@
+{
+  "title": "Software Engineering Radar",
+  "_comment": "Self-rated, 0-100. Edit these and rerun scripts/radar.py to redraw the radar.",
+  "axes": [
+    {
+      "label": "Backend & APIs",
+      "value": 90
+    },
+    {
+      "label": "Arquitectura (Clean/HEX/DDD)",
+      "value": 82
+    },
+    {
+      "label": "Seguridad (JWT/OAuth2)",
+      "value": 85
+    },
+    {
+      "label": "Bases de datos",
+      "value": 85
+    },
+    {
+      "label": "Frontend",
+      "value": 75
+    },
+    {
+      "label": "Cloud & Docker",
+      "value": 70
+    }
+  ]
+}
